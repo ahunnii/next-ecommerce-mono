@@ -1,0 +1,11 @@
+{
+  "name": "@ahunn/tsconfig",
+  "version": "0.1.0",
+  "access": "public",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "base.json"
+  ]
+}
